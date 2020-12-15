@@ -108,8 +108,8 @@
                   <constraint>
                     <height>-1</height>
                     <width>-1</width>
-                    <x>165</x>
-                    <y>281</y>
+                    <x>156</x>
+                    <y>365</y>
                   </constraint>
                   <sourceConnections>
                     <net.java.amateras.uml.classdiagram.model.DependencyModel>
@@ -141,8 +141,8 @@
                         <constraint>
                           <height>-1</height>
                           <width>-1</width>
-                          <x>125</x>
-                          <y>120</y>
+                          <x>86</x>
+                          <y>221</y>
                         </constraint>
                         <sourceConnections/>
                         <targetConnections>
@@ -172,10 +172,10 @@
                                 </java.beans.PropertyChangeSupport>
                               </listeners>
                               <constraint>
-                                <height>99</height>
-                                <width>298</width>
-                                <x>91</x>
-                                <y>0</y>
+                                <height>124</height>
+                                <width>311</width>
+                                <x>87</x>
+                                <y>59</y>
                               </constraint>
                               <sourceConnections>
                                 <net.java.amateras.uml.model.AnchorModel reference="../../.."/>
